@@ -58,5 +58,6 @@ body {
 }
 
 .nav-item a.active {
-    background-color: #007bff;
+    background-color: red;
+    color: yellow;
 }
