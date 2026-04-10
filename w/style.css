@@ -6,8 +6,10 @@ body {
 
 /* Contenedor principal */
 .contenedor {
-    width: 60%;
-    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
 }
 
 .bloque {
