@@ -16,6 +16,7 @@ body {
     background-color: #fff;
     margin: 40px auto;
     padding: 15px 15px 40px 15px;
+    width: fit-content;
     border-radius: 5px;
     box-shadow: 0 10px 20px rgba(0,0,0,0.2);
     text-align: center;
