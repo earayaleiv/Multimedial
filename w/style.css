@@ -62,7 +62,6 @@ body {
 }
 
 .nav-item a.active {
-    background-color: transparent;
-    color: #3E2F23;
-    border-bottom: 3px solid #C2A878;
+    background-color: #D4C2A5; 
+    color: #3E2F23; 
 }
