@@ -46,6 +46,10 @@ body {
     padding: 0;
 }
 
+.nav-item {
+    display: flex;
+}
+
 .nav-item a {
     display: block;
     padding: 15px 20px;
@@ -60,4 +64,5 @@ body {
 .nav-item a.active {
     background-color: red;
     color: yellow;
+    border: 3px solid black;
 }
