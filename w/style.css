@@ -25,6 +25,7 @@ body {
 
 .bloque img {
     display: block;
+    width: 100%;
     max-width: 300px;
     height: auto;
 }
@@ -79,20 +80,26 @@ body {
 
 /*boton*/
 .boton {
-    background-color: blue;
-    /* Color de fondo del botón */
-    color: white;
-    /* Color del texto */
-    padding: 15px;
-    /* Espacio interno (arriba, abajo, izquierda, derecha) */
-    width: 150px;
-    /* Ancho fijo del botón */
+    background-color: #8B7355;
+    color: #FDFBD4;
+    padding: 12px 20px;
+    width: 160px;
     text-align: center;
-    /* Centra el texto horizontalmente */
-    transition: 0.3s;
-    /* Hace que los cambios (como color) sean suaves en 0.3 segundos */
+    border: none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
 }
 
 .boton:hover {
-    background-color: red;
+    background-color: #A68A64;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 14px rgba(0, 0, 0, 0.25);
+}
+
+.boton:active {
+    transform: translateY(0);
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.2);
 }
