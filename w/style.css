@@ -6,22 +6,31 @@ body {
 
 /* Contenedor principal */
 .contenedor {
-    width: 80%;
+    width: 60%;
     margin: auto;
 }
 
-/* Sección o bloque */
 .bloque {
-    background-color: white;
-    margin: 20px 0;
-    padding: 20px;
-    border-radius: 10px;
+    background-color: #fff;
+    margin: 40px auto;
+    padding: 15px 15px 40px 15px;
+    width: fit-content;
+    border-radius: 5px;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+    text-align: center;
+    transform: rotate(-1deg);
 }
 
-/* Imagen */
 .bloque img {
-    width: 100%;
+    display: block;
+    max-width: 300px;
     height: auto;
+}
+
+.bloque p {
+    margin-top: 10px;
+    font-family: 'Courier New', cursive;
+    color: #333;
 }
 
 /* Encabezado */
@@ -30,10 +39,6 @@ body {
 }
 .bloque h1 {
     margin-top: 10px;
-}
-/* Texto */
-.bloque p {
-    line-height: 1.5;
 }
 
 
