@@ -38,8 +38,24 @@ body {
     background-color: peachpuff;
 }
 
-ul{
-    list-style-type: none;
+.navbar {
+    background-color: #333;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
     margin: 0;
     padding: 0;
+}
+
+.nav-item a {
+    display: block;
+    padding: 15px 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.nav-item a:hover {
+    background-color: #555;
 }
