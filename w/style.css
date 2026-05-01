@@ -30,9 +30,10 @@ body {
     height: auto;
 }
 
-.foto1 {
+.bloque img.foto1 {
     display: block;
-    width: 10000px;
+    width: 1000px;
+    max-width: none;
     height: auto;
 }
 
