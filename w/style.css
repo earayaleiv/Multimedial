@@ -34,6 +34,7 @@ body {
     display: block;
     width: 650px;
     max-width: none;
+    padding: 15px 15px 25px 15px;
     height: auto;
 }
 
