@@ -30,6 +30,13 @@ body {
     height: auto;
 }
 
+.img foto1 {
+    display: block;
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+}
+
 .bloque p {
     margin-top: 10px;
     font-family: 'Courier New', cursive;
