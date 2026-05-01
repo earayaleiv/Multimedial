@@ -32,7 +32,7 @@ body {
 
 .bloque img.foto1 {
     display: block;
-    width: 1000px;
+    width: 600px;
     max-width: none;
     height: auto;
 }
