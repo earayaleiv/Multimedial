@@ -45,8 +45,10 @@ body {
 }
 
 /* Encabezado */
-.bloque h2 {
+.bloque h5 {
     margin-top: 10px;
+    font-size: 18px;
+    line-height: 1.6;
 }
 
 .bloque h1 {
