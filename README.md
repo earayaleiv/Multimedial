@@ -953,7 +953,9 @@ Para este trabajo utilicé cuatro controles deslizantes (sliders) en TouchDesign
 <h4 id="retícula">3. Entrega Final</h4>
 <div style="text-align: center;">
 La motivación para este proyecto se centra en mi trabajo personal de grado, donde exploro las posibilidades de la retícula a través del textil. En esta ocasión, decidí cambiar el sistema reticular cuadriculado tradicional y en su lugar usar figuras cuya forma sea redonda, todas bajo un trabajo de superposición de transparencias y texturas con lo que he estado trabajando de forma análoga, esta vez en digital. 
+    
 <img class="zoom" src="assets/img/reticula.gif" style="width: 600px; max-width: 100%; border-radius: 12px; margin: 10px 0;">
+
 <div style="text-align: center;">
 Utilicé dibujos hechos por mí como un boceto, los cuales fueron escaneados para así aprovechar al máximo los colores y la textura del lápiz, la inspiración principal para estos dibujos fueron las flores, cuyas formas se adoptaron para dibujar y abstraer estas mismas a algo que solo se le asemeja en lo remoto. Las cinco "esferas" se superponen una sobre la otra, para así generar una única figura proyectada; aquí se trabajó con las mezclas de colores y transparencias, para que cada color vaya alterándose de forma orgánica. Finalmente, esta figura es posible sería proyectarla de formas distintas: por sí sola, sobre un textil tridimensional, o sobre otro de mis trabajos en relación a la exploración del material textil; al mismo tiempo existe la opción de reproducir sonidos de fondo, que se rescataron de una plataforma que provee sonidos que rescatan de las flores a través de ondas. Al final se explora tanto la superposición de las imágenes, y la superposición de sonidos.
 </div>
