@@ -948,7 +948,7 @@ En este ejemplo se utiliza el método L-System para generar una estructura simil
 <h4 id="point">3. Ejercicio Point</h4>
 <div style="text-align: center;">
 Point (Punto): Es un método que utiliza puntos individuales en un espacio 2D o 3D para representar y construir geometrías. Cada punto puede tener atributos como posición, color, tamaño y orientación.
-<img class="zoom" src="assets/img/.gif" style="width: 600px; max-width: 100%; border-radius: 12px; margin: 10px 0;">
+<img class="zoom" src="assets/img/point.gif" style="width: 600px; max-width: 100%; border-radius: 12px; margin: 10px 0;">
 <div style="text-align: center;">
 Para este trabajo utilicé cuatro controles deslizantes (sliders) en TouchDesigner, los cuales permiten modificar diferentes parámetros del proyecto en tiempo real. Estos controles están vinculados a los operadores Switch, Noise y Chroma, permitiendo cambiar entre distintas configuraciones visuales, modificar los patrones y variaciones generados por Noise y ajustar los colores mediante Chroma.
 </div>
