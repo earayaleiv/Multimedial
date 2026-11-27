@@ -1,6 +1,6 @@
 <style>
 body {
-    background-image: url('assets/img/point.gif') !important;
+    background-image: url('assets/img/reticula.gif') !important;
     background-size: cover !important;
     background-position: center !important;
     background-attachment: fixed !important;
@@ -15,7 +15,7 @@ body {
 }
 </style>
 
-<img src="https://mauricixx.github.io/multimedial/img/Multimedial_gif.gif" width="auto" height="auto" />
+<img src="assets/img/138237.jpg" width="auto" height="auto" />
 
 
 ## Exploración creativa de arte, tecnología y medios digitales interactivos.
