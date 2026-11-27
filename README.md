@@ -1,10 +1,12 @@
 <style>
+
 body {
     background-image: url('assets/img/reticula.gif') !important;
     background-size: cover !important;
     background-position: center !important;
     background-attachment: fixed !important;
     background-repeat: no-repeat !important;
+    color: #f52063;
 }
 
 /* Fondo semitransparente para el contenido */
