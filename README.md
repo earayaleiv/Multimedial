@@ -27,7 +27,6 @@
 
 ## Exploración creativa de arte, tecnología y medios digitales interactivos.
 
-### index
 ## Unidad I.  [Hipervícunlo](#unidad-i--hipervicunlo-) <br> 
 1. [Mi Primera página.](#mi-primera-página) <br> 
 2. [Enlaces -  Links](#2-enlaces-links) <br> 
@@ -914,7 +913,7 @@ body {
 ```
 
 
-### II: 
+### Unidad II: 
 ### Programación visual creativa basada en nodos. 
 #### Un caso paradigmal: TouchDesigner. 
 #### INTRODUCCIÓN Y FUNDAMENTOS.
@@ -936,7 +935,27 @@ body {
 - Navegación: zoom, pan, conexiones
 - Proyecto práctico.
 
-#### 2. Canasta de ejercicios:
+<h4 id="lsystem">2. Ejercicio LSystem</h4>
+<div style="text-align: center;">
+L-System (Lindenmayer System): Es un método matemático que utiliza reglas de reemplazo de símbolos para generar estructuras y patrones complejos de forma iterativa, como árboles, plantas y formas fractales.
+<img class="zoom" src="img/lsystem.gif" style="width: 600px; max-width: 100%; border-radius: 12px; margin: 10px 0;">
+<div style="text-align: center;">
+En este ejemplo se utiliza el método L-System para generar una estructura similar a un árbol, cuyos elementos pueden visualizarse y modificarse mediante controles interactivos. Se incorporan dos sliders: uno permite controlar la traslación y rotación de la geometría, mientras que el otro regula la intensidad del efecto Bloom. Esto permite modificar tanto la posición y orientación del árbol como su apariencia visual, generando distintos resultados en tiempo real.
+</div>
+</div>
+
+
+<h4 id="point">3. Ejercicio Point</h4>
+<div style="text-align: center;">
+Point (Punto): Es un método que utiliza puntos individuales en un espacio 2D o 3D para representar y construir geometrías. Cada punto puede tener atributos como posición, color, tamaño y orientación.
+<img class="zoom" src="img/.gif" style="width: 600px; max-width: 100%; border-radius: 12px; margin: 10px 0;">
+<div style="text-align: center;">
+Para este trabajo utilicé cuatro controles deslizantes (sliders) en TouchDesigner, los cuales permiten modificar diferentes parámetros del proyecto en tiempo real. Estos controles están vinculados a los operadores Switch, Noise y Chroma, permitiendo cambiar entre distintas configuraciones visuales, modificar los patrones y variaciones generados por Noise y ajustar los colores mediante Chroma.
+</div>
+</div>
+
+
+#### 4. Canasta de ejercicios:
 - Ejercicios: [Nube de puntos con POP basada en imágenes](https://drive.google.com/drive/folders/1I_xNtbnLpvJ8vhu4z0bfWQpn2Uv-I8Sl?usp=sharing)
 
 
