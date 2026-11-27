@@ -1,25 +1,18 @@
 <style>
-    body {
-    background-color: #a9a9b7;
-    color: #eaeaea;
-  }
-  div.highlighter-rouge,
-  div.highlighter-rouge .highlight,
-  div.highlighter-rouge pre {
-    background-color: #000;
-    color: #f2f2f2;
-  }
+body {
+    background-image: url('assets/img/point.gif') !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-attachment: fixed !important;
+    background-repeat: no-repeat !important;
+}
 
-  div.highlighter-rouge pre {
-    padding: 1em;
-    border-radius: 8px;
-    overflow-x: auto;
-  }
-
-  div.highlighter-rouge code {
-    background: transparent;
-    color: inherit;
-  }
+/* Fondo semitransparente para el contenido */
+.markdown-body {
+    background: rgba(20, 16, 31, 0.85) !important;
+    padding: 25px !important;
+    border-radius: 15px;
+}
 </style>
 
 <img src="https://mauricixx.github.io/multimedial/img/Multimedial_gif.gif" width="auto" height="auto" />
